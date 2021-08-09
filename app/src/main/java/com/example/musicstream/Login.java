@@ -11,9 +11,9 @@ import android.widget.Toast;
 
 public class Login extends AppCompatActivity {
 
-    public final String[] usernameList = {"aishaK", "IamCool", "Wakanda4Life",
+    public final String[] usernameList = {"username", "IamCool", "Wakanda4Life",
             "LoveU1000", "Naruto"};
-    public final String[] passwordList = {"1234567", "qwerty", "passwert",
+    public final String[] passwordList = {"password", "qwerty", "passwert",
             "iloveyouback", "boruto12345"};
     EditText username;
     EditText password;

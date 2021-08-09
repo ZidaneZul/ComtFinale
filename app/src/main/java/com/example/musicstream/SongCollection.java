@@ -3,7 +3,7 @@ package com.example.musicstream;
 import android.util.Log;
 
 public class SongCollection {
-    private Song songs[] = new Song[3];
+    public Song songs[] = new Song[3];
 
     public SongCollection(){
 
